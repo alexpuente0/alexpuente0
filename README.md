@@ -14,7 +14,7 @@
 
 - 🌱 Currently trying my luck as a Web Development and loving JavaScript!
  
-- 📫 Reach me @ **manu.puente@gmail.com**
+- 📫 Reach me @ **manu.puente@hotmail.com**
 
 - ⚡ Fun fact: I play guitar and Bass🎵 and i make my own beer.
 
