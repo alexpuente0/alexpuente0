@@ -10,13 +10,13 @@
 <br>
 
 
-- 🔭 Worked +10 as an HR rep, and at least half of it as a tech recruiter.
+- 🔭 Worked +10 years in Human Resources, and at least half of that as a Tech Recruiter.
 
-- 🌱 Currently trying my luck as a Web Development and learning other programming languages
+- 🌱 Currently trying my luck as a Web Development and learning about programming languages!
  
-- 📫 How to reach me **manu.puente@gmail.com**
+- 📫 Reach me @ **manu.puente@gmail.com**
 
-- ⚡ Fun fact : I play guitar and Bass🎵 and make my own beer.
+- ⚡ Fun fact: I play guitar and Bass🎵 and i make my own beer.
 
 
 
