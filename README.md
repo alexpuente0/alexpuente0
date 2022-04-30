@@ -3,9 +3,7 @@
 
 <br>
 
-<p align="right"> <img src="![](https://komarev.com/ghpvc/?username=alexpuente0&color=004a01)"
-    alt="alex-pw" /> 
-  </p>
+<p align="right"> <img src="![](https://komarev.com/ghpvc/?username=alexpuente0&color=004a01)"alt="alex-pw"/> </p>
 
 <br>
 
