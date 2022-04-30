@@ -1,16 +1,44 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Alex Puente</h1>
+<h3 align="center">Currenttly studying Web Development @ Microverse🌟.</h3>
 
-<!--
-**alexpuente0/alexpuente0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="right"> <img src="![](https://komarev.com/ghpvc/?username=alexpuente0&color=004a01)"
+    alt="alex-pw" /> 
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+
+- 🔭 Worked +10 as an HR rep, and at least half of it as a tech recruiter.
+
+- 🌱 Currently trying my luck as a Web Development and learning other programming languages
+ 
+- 📫 How to reach me **manu.puente@gmail.com**
+
+- ⚡ Fun fact : I play guitar and Bass🎵 and make my own beer.
+
+
+
+
+
+
+
+
+
+<br>
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=alexpuente0&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="alex-pw" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexpuente0&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="alex-pw" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexpuente0&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="alex-pw" /></p>
