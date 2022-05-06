@@ -33,6 +33,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 
