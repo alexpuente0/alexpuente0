@@ -45,8 +45,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=alexpuente0&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="alex-pw" 
     bg_color=#808080/></p>
-    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexpuente0)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
