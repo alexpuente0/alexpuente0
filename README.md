@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Puente</h1>
-<h3 align="center">Currently studying Web Development @ Microverse🌟.</h3>
+<h3 align="center">Currently studying Web Development @ Microverse🌟</h3>
 
 <br>
 
@@ -16,7 +16,7 @@
  
 - 📫 Reach me @ **manu.puente@hotmail.com**
 
-- ⚡ Fun fact: I play guitar and Bass🎵 and i make my own beer.
+- ⚡ Fun fact: I play guitar and Bass🎵 and I make my own beer.
 
 
 
