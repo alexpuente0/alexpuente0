@@ -12,7 +12,7 @@
 
 - 🔭 Worked +10 years in Human Resources, and at least half of that as a Tech Recruiter.
 
-- 🌱 Currently trying my luck as a Web Developer and loving JavaScript!
+- 🌱 Currently a Web Developer and loving Ruby on Rails and JavaScript!
  
 - 📫 Reach me @ **manu.puente@hotmail.com**
 
