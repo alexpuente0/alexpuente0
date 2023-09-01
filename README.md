@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Puente</h1>
-<h3 align="center">Currently studying Web Development @ Microverse🌟</h3>
+<h3 align="center">Full Stack Web Developer🌟</h3>
 
 <br>
 
